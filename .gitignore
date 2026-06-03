@@ -1,0 +1,48 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# TensorFlow/Keras
+logs/
+checkpoints/
+
+# Model Files (usually large)
+*.h5
+*.hdf5
+*.keras
+*.pb
+
+# PyTorch
+*.pth
+*.pt
+
+# Data Files (optional)
+data/raw/
+data/processed/
+
+# Environment Variables
+.env
+
+# Temporary Files
+*.tmp
+*.temp
